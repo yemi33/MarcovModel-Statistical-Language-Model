@@ -1,0 +1,50 @@
+
+Level: Word
+Order: 3
+-----Estimation Results for franz_kafka_collected_works.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+11.127102493922175
+-----When estimated by: edgar_allan_poe_collected_works.txt-----
+-0.1395896357050983
+
+-----Estimation Results for edgar_allan_poe_collected_works.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+-0.5287818387017497
+-----When estimated by: edgar_allan_poe_collected_works.txt-----
+16.3812286319292
+
+Level: Word
+Order: 2
+
+-----Estimation Results for franz_kafka_collected_works.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+4.639563081389576
+-----When estimated by: edgar_allan_poe_collected_works.txt-----
+-0.260059475024178
+
+-----Estimation Results for edgar_allan_poe_collected_works.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+-0.8319540917245729
+-----When estimated by: edgar_allan_poe_collected_works.txt-----
+6.76601358656852
+
+Level: Word
+Order: 
+
+-----Estimation Results for franz_kafka_collected_works.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+0.8226941611030101
+-----When estimated by: edgar_allan_poe_collected_works.txt-----
+-0.3998917307037505
+
+-----Estimation Results for edgar_allan_poe_collected_works.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+-0.8905246271814795
+-----When estimated by: edgar_allan_poe_collected_works.txt-----
+1.858782019571094

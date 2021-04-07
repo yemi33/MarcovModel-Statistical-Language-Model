@@ -1,0 +1,11 @@
+line_tokens = []
+    # basic tokenization (may not be precise)
+    for line in self.corpus:
+      pattern = re.compile("(^[^a-z]+|[^a-z]+$)")
+      # for each line, tokenize
+      tokens = [re.sub(pattern, "", token)
+                for token in line.lower().split()]
+      # push this token list of a single line into a list of list containing all token lists
+      line_tokens.push(tokens)
+
+    return line_tokens

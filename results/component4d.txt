@@ -1,0 +1,68 @@
+Trial 1:
+-----Estimation Results for franz_kafka_collected_works.txt-----
+-----When estimated by: franz_kafka_collected_works.txt-----
+4.639563081389576
+-----When estimated by: practice_phrenology_simplified.txt-----
+-0.7178045573464708
+-----Estimation Results for practice_phrenology_simplified.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+-1.0054028582826928
+-----When estimated by: practice_phrenology_simplified.txt-----
+5.054461232419595
+
+Trial 2:
+-----Estimation Results for franz_kafka_collected_works.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+4.639563081389576
+-----When estimated by: practice_phrenology_simplified.txt-----
+-0.7178045573464708
+-----When estimated by: william_shakespeare_collected_works.txt-----
+-0.14133024254895002
+
+-----Estimation Results for practice_phrenology_simplified.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+-1.0054028582826928
+-----When estimated by: practice_phrenology_simplified.txt-----
+5.054461232419595
+-----When estimated by: william_shakespeare_collected_works.txt-----
+-0.13730742783524075
+
+-----Estimation Results for william_shakespeare_collected_works.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+-0.902702573675627
+-----When estimated by: practice_phrenology_simplified.txt-----
+-0.5805801364797408
+-----When estimated by: william_shakespeare_collected_works.txt-----
+6.508127709309577
+
+Trial 3:
+-----Estimation Results for franz_kafka_collected_works.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+11.127102493922175
+-----When estimated by: practice_phrenology_simplified.txt-----
+-0.6656949344003963
+-----When estimated by: william_shakespeare_collected_works.txt-----
+-0.14133024254895002
+
+-----Estimation Results for practice_phrenology_simplified.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+-0.5982293640678266
+-----When estimated by: practice_phrenology_simplified.txt-----
+8.189396530541956
+-----When estimated by: william_shakespeare_collected_works.txt-----
+-0.13730742783524075
+
+-----Estimation Results for william_shakespeare_collected_works.txt-----
+
+-----When estimated by: franz_kafka_collected_works.txt-----
+-0.578139293629819
+-----When estimated by: practice_phrenology_simplified.txt-----
+-0.6575031622633214
+-----When estimated by: william_shakespeare_collected_works.txt-----
+6.508127709309577
